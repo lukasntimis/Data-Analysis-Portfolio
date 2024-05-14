@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   -[About](https://github.com/lukasntimis/portfolio/edit/main/README.md#about)
   -[Portfolio Projects](https://github.com/lukasntimis/portfolio/edit/main/README.md#portfolio-projects)
     -Python
-      -
+      - [Analyzing Video Game Industry Trends and Insights]()
       -
     -SQL
       -
@@ -33,6 +33,17 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## Analyzing Video Game Industry Trends and Insights
+**Code:**[]()
+
+**Goal:** To explore and understand key trends and data points within the video game industry, providing insights that can inform future strategies and decisions.
+
+**Description** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
+
+**Technology** Pandas, Pandas, Numphy, Matplotlib, Math
+
+**Results** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
 
 
 ## Education 
