@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   -[About](https://github.com/lukasntimis/portfolio/edit/main/README.md#about)
   -[Portfolio Projects](https://github.com/lukasntimis/portfolio/edit/main/README.md#portfolio-projects)
     -Python
-      - [Analyzing Video Game Industry Trends and Insights]()
+      - [Analyzing Video Game Industry Trends and Insights](https://github.com/lukasntimis/My-Projects/blob/main/Analyzing%20Video%20Game%20Industry%20Trends%20and%20Insights.ipynb)
       -
     -SQL
       -
@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Analyzing Video Game Industry Trends and Insights
-**Code:**[]()
+**Code:**[`Analyzing Video Game Industry Trends and Insights`](https://github.com/lukasntimis/My-Projects/blob/main/Analyzing%20Video%20Game%20Industry%20Trends%20and%20Insights.ipynb)
 
 **Goal:** To explore and understand key trends and data points within the video game industry, providing insights that can inform future strategies and decisions.
 
