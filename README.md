@@ -60,7 +60,10 @@ In this section I will list data analytics projects briefly describing the techn
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
 Bachelor's Degree, Accounting and Finance,
-2009 - 2013
+2008 - 2013
+
+High School: Degree in Mathematical, Economic, and Informatics Direction (2006)
+
 
 ## Certificates 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
