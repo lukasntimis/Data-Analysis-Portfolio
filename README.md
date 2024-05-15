@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   -[About](https://github.com/lukasntimis/portfolio/edit/main/README.md#about)
   -[Portfolio Projects](https://github.com/lukasntimis/portfolio/edit/main/README.md#portfolio-projects)
     -Python
-      - [Analyzing Video Game Industry Trends and Insights](https://github.com/lukasntimis/My-Projects/blob/main/Analyzing%20Video%20Game%20Industry%20Trends%20and%20Insights.ipynb)
+      - [Analyzing Video Game Industry Trends and Insights]([https://github.com/lukasntimis/My-Projects/blob/main/Analyzing%20Video%20Game%20Industry%20Trends%20and%20Insights.ipynb](https://github.com/lukasntimis/My-Projects/blob/main/Analyzing%20Video%20Game%20Industry%20Trends%20and%20Insights.ipynb))
       -
     -SQL
       -
