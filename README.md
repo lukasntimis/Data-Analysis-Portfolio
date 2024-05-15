@@ -36,6 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Analyzing Video Game Industry Trends and Insights
 **Code:**[`Analyzing Video Game Industry Trends and Insights`](https://github.com/lukasntimis/MyProjects/blob/main/Analyzing%20Video%20Game%20Industry%20Trends%20and%20Insights%20%20(1).ipynb)
+
 **Goal:** To explore and understand key trends and data points within the video game industry, providing insights that can inform future strategies and decisions.
 
 **Description** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
