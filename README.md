@@ -27,9 +27,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - Power BI
     - Tableau 
 
-  - [Education](https://github.com/lukasntimis/portfolio/edit/main/README.md#education) 
-  - [Certificates](https://github.com/lukasntimis/portfolio/edit/main/README.md#certificates)
-  - [Contacts](https://github.com/lukasntimis/portfolio/edit/main/README.md#contacts)
+  - [Education](https://github.com/lukasntimis/portfolio/blob/main/README.md#education) 
+  - [Certificates](https://github.com/lukasntimis/portfolio/blob/main/README.md#certificates)
+  - [Contacts](https://github.com/lukasntimis/portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
