@@ -59,12 +59,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
-Degree in Accounting and Finance
-2009-2013
+Bachelor's Degree, Accounting and Finance,
+2009 - 2013
 
 ## Certificates 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
- - Workearly Data Science Profeccional(https://www.credly.com/badges/8b9e18a0-d1df-4bd0-bf7c-740b8b8db2bd)
+ - [Workearly Data Science Profeccional](https://www.credly.com/badges/8b9e18a0-d1df-4bd0-bf7c-740b8b8db2bd)(Feb 2024 - May 2024)(Reatcode Education-Workearly)
 
 ## Contacts
   - email : lukasntimis@hotmail.com
