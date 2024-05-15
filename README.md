@@ -15,21 +15,21 @@ My CV in [pdf]...
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-  -[About](https://github.com/lukasntimis/portfolio/edit/main/README.md#about)
-  -[Portfolio Projects](https://github.com/lukasntimis/portfolio/edit/main/README.md#portfolio-projects)
-    -Python
+  - [About](https://github.com/lukasntimis/portfolio/edit/main/README.md#about)
+  - [Portfolio Projects](https://github.com/lukasntimis/portfolio/edit/main/README.md#portfolio-projects)
+    - Python
       - [Analyzing Video Game Industry Trends and Insights](https://github.com/lukasntimis/Data-Analysis-Portfolio#Analyzing-Video-Game-Industry-Trends-Insights)
       -
-    -SQL
+    - SQL
       -
       -
-    -Excel
-    -Power BI
-    -Tableau 
+    - Excel
+    - Power BI
+    - Tableau 
 
-  -Education 
-  -Certificates
-  -Contacts
+  - [Education](https://github.com/lukasntimis/portfolio/edit/main/README.md#education) 
+  - [Certificates](https://github.com/lukasntimis/portfolio/edit/main/README.md#certificates)
+  - [Contacts](https://github.com/lukasntimis/portfolio/edit/main/README.md#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
