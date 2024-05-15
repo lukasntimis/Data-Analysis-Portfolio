@@ -41,10 +41,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
 
-**Technology** Pandas, Pandas, Numphy, Matplotlib, Math
+**Technology** Python, Pandas, Numpy, Matplotlib, Math
 
 **Results** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
 
+
+## Cinematic Insights: Predicting Ratings and Decoding Genre Trends
+**Code:**
+
+**Goal:** Predict movie ratings, analyze trends, and explore genre popularity correlations
+
+**Description** This project forecasts IMDb movie ratings and analyzes industry trends and genre popularity, providing key insights for informed decision-making in film-related strategies.
+
+**Technology** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
+
+**Results** A detailed analysis report with predictive insights and trend visualizations for strategic decision-making.
 
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
