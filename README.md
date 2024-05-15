@@ -66,7 +66,7 @@ Degree in Accounting and Finance
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
  - Workearly Data Science Profeccional(https://www.credly.com/badges/8b9e18a0-d1df-4bd0-bf7c-740b8b8db2bd)
 
-## Contracts
+## Contacts
   - email : lukasntimis@hotmail.com
   - LinkedID : [@lukasntimis](https://www.linkedin.com/in/loukas-ntimis-2b9a032a6/)
 
