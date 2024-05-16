@@ -46,16 +46,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Results** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
 
 
-## Cinematic Insights: Predicting Ratings and Decoding Genre Trends
+## Streaming Insights: Analyzing Trends on Netflix
 **Code:**
 
-**Goal:** Predict movie ratings, analyze trends, and explore genre popularity correlations
+**Goal:** To utilize data analytics to predict Netflix content ratings and identify prevailing genre trends.
 
-**Description** This project forecasts IMDb movie ratings and analyzes industry trends and genre popularity, providing key insights for informed decision-making in film-related strategies.
+**Description** This project analyzes a rich dataset of Netflix content from its start up to 2022, featuring a variety of movies and TV shows. It includes data on titles, directors, cast, production countries, release dates, ratings, durations, genres, and brief descriptions. The work involves loading and cleaning the data, performing exploratory data analysis (EDA) to discover trends and patterns, and exploring how different factors like genres and ratings interrelate. The study also applies basic statistical techniques to draw meaningful conclusions and insights.
 
 **Technology** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
 
-**Results** A detailed analysis report with predictive insights and trend visualizations for strategic decision-making.
+**Results** Anticipated outputs include a comprehensive analysis of rating trends and genre popularity, culminating in strategic insights depicted through engaging visualizations.
 
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
