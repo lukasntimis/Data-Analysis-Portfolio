@@ -41,6 +41,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
 
+**Skills** Data Cleaning, Data Analysis, Data Visualization, Poisson Distribution
+
 **Technology** Python, Pandas, Numpy, Matplotlib, Math
 
 **Results** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
@@ -53,6 +55,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Goal:** 
 
 **Description** 
+
+**Skills** 
 
 **Technology** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
 
