@@ -60,7 +60,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
 
-**Results:** Using Python fuction that analysis will provide insights into the factors driving car sales and highlight significant trends across various vehicle attributes. Additionally, the project will deliver predictive models capable of forecasting future sales, offering valuable guidance for strategic planning in the automotive industry.
+**Results:** Utilizing Python for analysis, this project will elucidate the factors driving car sales and highlight significant trends across various vehicle attributes. Additionally, it will develop predictive models capable of forecasting future sales, thereby providing valuable insights for strategic planning in the automotive industry.
+
 
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
