@@ -41,7 +41,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
 
-**Skills:** Data Cleaning, Data Analysis, Data Visualization, Poisson Distribution
+**Skills:** , data cleaning, data analysis, data visualization, poisson distribution
 
 **Technology:** Python, Pandas, Numpy, Matplotlib, Math
 
@@ -54,13 +54,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** This project aims to understand trends in car sales, identify factors influencing sales, and predict future sales based on historical data.
 
-**Description:** 
+**Description:** This dataset offers a detailed compilation of vehicle sales transactions, encompassing a variety of data points. Included are the year, make, model, trim, body type, transmission type, VIN (Vehicle Identification Number), state of registration, condition rating, odometer reading, exterior and interior colors, seller information, Manheim Market Report (MMR) values, selling prices, and sale dates.
 
-**Skills:** 
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualization
 
 **Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
 
-**Results:** 
+**Results:** Using Python fuction that analysis will provide insights into the factors driving car sales and highlight significant trends across various vehicle attributes. Additionally, the project will deliver predictive models capable of forecasting future sales, offering valuable guidance for strategic planning in the automotive industry.
 
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
