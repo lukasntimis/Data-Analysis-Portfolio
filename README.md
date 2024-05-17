@@ -39,13 +39,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To explore and understand key trends and data points within the video game industry, providing insights that can inform future strategies and decisions.
 
-**Description** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
+**Description:** The project we will be using contains data on video game sales, including the game's name, platform, year of release, genre, publisher, sales in North America, Europe, Japan, and the rest of the world, and global sales.
 
-**Skills** Data Cleaning, Data Analysis, Data Visualization, Poisson Distribution
+**Skills:** Data Cleaning, Data Analysis, Data Visualization, Poisson Distribution
 
-**Technology** Python, Pandas, Numpy, Matplotlib, Math
+**Technology:** Python, Pandas, Numpy, Matplotlib, Math
 
-**Results** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
+**Results:** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
 
 
 ## Rhythms in Numbers: Analyzing Spotify Music Attributes
@@ -54,13 +54,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** 
 
-**Description** 
+**Description:** 
 
-**Skills** 
+**Skills:** 
 
-**Technology** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
+**Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy
 
-**Results** 
+**Results:** 
 
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
