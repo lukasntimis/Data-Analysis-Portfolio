@@ -48,11 +48,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Python fuction, we addressed several key questions about the video game industry. Our analysis included identifying the top-selling games, determining the most popular platforms and genres, examining how sales differ by region, and exploring the relationships between the year of release, publisher, and sales figures. Additionally, we utilized a Poisson distribution to model the sales data effectively
 
 
-## Rhythms in Numbers: Analyzing Spotify Music Attributes
+## Venicle Sales Analysis
 
 **Code:**
 
-**Goal:** 
+**Goal:** The goal of this project is to understand trends in car sales, identify factors that influence sales, and predict future sales based on historical data.
 
 **Description:** 
 
