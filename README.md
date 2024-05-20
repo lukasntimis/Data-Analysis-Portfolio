@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Portfolio Projects](https://github.com/lukasntimis/portfolio/edit/main/README.md#portfolio-projects)
     - Python
       - [Analyzing Video Game Industry Trends and Insights](https://github.com/lukasntimis/Data-Analysis-Portfolio#Analyzing-Video-Game-Industry-Trends-Insights)
-      -
+      - [Venicle Sales Analysis](https://github.com/lukasntimis/Data-Analysis-Portfolio#Venicle-Sales-Analysis)
     - SQL
       -
       -
