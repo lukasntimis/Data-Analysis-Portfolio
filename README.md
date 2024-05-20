@@ -51,7 +51,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Venicle Sales Analysis
 
-**Code:**[`Venicle Sales Analysis`]()
+**Code:**[`Venicle Sales Analysis`](https://github.com/lukasntimis/MyProjects/blob/main/Venicle%20Sales%20Analysis.ipynb)
 
 **Goal:** This project aims to understand trends in car sales, identify factors influencing sales, and predict future sales based on historical data.
 
