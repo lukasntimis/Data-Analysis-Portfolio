@@ -2,6 +2,7 @@
 ## About
 
 Hi, I'm Lukas! 👋
+
 🎓 I hold a degree in Finance and Accounting and have recently completed a Data Analysis Bootcamp.
 
 🔍 With a solid foundation in financial and accounting principles, I am excited to apply my knowledge and skills in the dynamic field of data science. I am keen on using data to drive decision-making and uncover actionable insights, positioning myself as an entry-level data specialist.
@@ -50,7 +51,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Venicle Sales Analysis
 
-**Code:**
+**Code:**[`Venicle Sales Analysis']()
 
 **Goal:** This project aims to understand trends in car sales, identify factors influencing sales, and predict future sales based on historical data.
 
