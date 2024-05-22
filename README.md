@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Analyzing Video Game Industry Trends and Insights](https://github.com/lukasntimis/Data-Analysis-Portfolio#Analyzing-Video-Game-Industry-Trends-Insights)
       - [Venicle Sales Analysis](https://github.com/lukasntimis/Data-Analysis-Portfolio#Venicle-Sales-Analysis)
     - SQL
-      -
+      - [Football Players Analysis](https://github.com/lukasntimis/Data-Analysis-Portfolio#Football-Player-Analysis)
       -
     - Excel
     - Power BI
