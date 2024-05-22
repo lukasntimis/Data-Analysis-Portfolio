@@ -66,7 +66,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Football Player Analysis
 
-**Code:**
+**Code:**[`Football Player Analysis`](https://github.com/lukasntimis/MyProjects/blob/main/FootballPlayerAnalysis2022.sql)
 
 **Description:** The dataset contains records of football players, including their value, age, and clubs by country for the 2022-2023 season. This project includes the following steps: data loading, data cleaning and preprocessing, and exploratory data analysis (EDA).
 
