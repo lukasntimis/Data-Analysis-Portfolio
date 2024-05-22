@@ -64,6 +64,17 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Utilizing Python for analysis, this project will elucidate the factors driving car sales and highlight significant trends across various vehicle attributes. Additionally, it will develop predictive models capable of forecasting future sales, thereby providing valuable insights for strategic planning in the automotive industry.
 
 
+## Football Player Analysis
+
+**Code:**
+
+**Description:** The dataset contains records of football players, including their value, age, and clubs by country for the 2022-2023 season. This project includes the following steps: data loading, data cleaning and preprocessing, and exploratory data analysis (EDA).
+
+**Skills:** Joins, CTEs, Window Functions, Aggregate Fuctions, Temporary Tables, Creating Views
+
+**Technology:** MySQL
+
+
 ## Education 
 Alexander Technological Educational Institute, Thessaloniki:
 Bachelor's Degree, Accounting and Finance,
