@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Venicle Sales Analysis](https://github.com/lukasntimis/Data-Analysis-Portfolio#Venicle-Sales-Analysis)
     - SQL
       - [Football Players Analysis](https://github.com/lukasntimis/Data-Analysis-Portfolio#Football-Player-Analysis)
-      -
+      - [Analysis 1000 movies from IMDB](https://github.com/lukasntimis/Data-Analysis-Portfolio#Football-Player-Analysis#Analysis-1000-movies-from-IMDB)
     - Excel
     - Power BI
     - Tableau 
@@ -69,6 +69,17 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:**[`Football Player Analysis`](https://github.com/lukasntimis/MyProjects/blob/main/FootballPlayerAnalysis2022.sql)
 
 **Description:** The dataset contains records of football players, including their value, age, and clubs by country for the 2022-2023 season. This project includes the following steps: data loading, data cleaning and preprocessing, and exploratory data analysis (EDA).
+
+**Skills:** Joins, CTEs, Window Functions, Aggregate Fuctions, Temporary Tables, Creating Views
+
+**Technology:** MySQL
+
+
+## Analysis 1000 movies from IMDB 
+
+**Code:**['Analysis 1000 movies from IMDB'](https://github.com/lukasntimis/MyProjects/blob/main/movieproject.sql)
+
+**Description:** This dataset contains information on the IMDb Top 1000 movies, analyzing aspects such as top directors, runtime distribution, and highest-grossing films. This project includes the following steps: data loading, data cleaning and processing, and exploratory data analysis (EDA).
 
 **Skills:** Joins, CTEs, Window Functions, Aggregate Fuctions, Temporary Tables, Creating Views
 
