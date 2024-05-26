@@ -77,7 +77,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Analysis 1000 movies from IMDB 
 
-**Code:**['Analysis 1000 movies from IMDB'](https://github.com/lukasntimis/MyProjects/blob/main/movieproject.sql)
+**Code:**[`Analysis 1000 movies from IMDB`](https://github.com/lukasntimis/MyProjects/blob/main/movieproject.sql)
 
 **Description:** This dataset contains information on the IMDb Top 1000 movies, analyzing aspects such as top directors, runtime distribution, and highest-grossing films. This project includes the following steps: data loading, data cleaning and processing, and exploratory data analysis (EDA).
 
