@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Analysis 1000 movies from IMDB](https://github.com/lukasntimis/Data-Analysis-Portfolio#Football-Player-Analysis#Analysis-1000-movies-from-IMDB)
     - Excel
     - Power BI
-    - Tableau 
+    - Tableau--->[go to Tableau...](https://public.tableau.com/app/profile/loukas.ntimis/)
 
   - [Education](https://github.com/lukasntimis/portfolio/blob/main/README.md#education) 
   - [Certificates](https://github.com/lukasntimis/portfolio/blob/main/README.md#certificates)
