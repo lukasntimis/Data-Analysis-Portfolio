@@ -11,7 +11,7 @@ Hi, I'm Lukas! 👋
 
 🛠️ In my free time, I explore new data analysis tools and techniques, constantly seeking to expand my knowledge and skills. Whether collaborating with a team or working independently, I am driven by the thrill of discovery and the satisfaction of solving complex challenges through data.
 
-My CV in [pdf]...
+My CV in [pdf](https://github.com/lukasntimis/Data-Analysis-Portfolio/blob/main/Professional%20CV%20Lukas%20Ntimis.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
